@@ -16,3 +16,12 @@ Switch should be set to pin 7 by default
 
 # Known Errors
 None
+
+# RoadBlocks/Wishlist
+The program could use a set date/time feature.  It currently supports only onboard chipset timing
+
+# Coming Soon
+We anticipate testing of the code via Arduino simulation, enabling comparison between a normal
+light switch
+
+Report of efficiency findings for algorithm
